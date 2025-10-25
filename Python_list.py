@@ -43,3 +43,25 @@
 # IT_oquvchilar.insert(2, "SARVAR")
 # IT_oquvchilar.insert(0, "KAMOLTOY")
 # print(IT_oquvchilar)
+
+"""
+25.10.2025 ro'yhatlar davomi
+
+"""
+
+# moshinalar = ["mers","gentra","tico","malibu2","traker","BMW","aodi"]
+# moshinalar.sort(reverse=True)
+# print(moshinalar)
+
+# print(sorted(moshinalar))
+# print(sorted(moshinalar, reverse=True))
+
+sonlar = [12, 34, 56, 78, 98, 13, -9, -89]
+print(f"Asl korinishi : {sonlar}")
+print(f"Tartiblangan korinishi : {sorted(sonlar)}")
+print(f"Teskari Tartiblangan korinishi : {sorted(sonlar, reverse=True)}")
+
+print(len(sonlar))
+
+toq_sonlar = list(range(1,11,2))
+print(toq_sonlar)

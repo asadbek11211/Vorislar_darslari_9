@@ -62,3 +62,6 @@ qiziqish = input("Qiziqishlaringizni kiriting: ")
 jura = input("Yaqin insonlaringizni kiriting : ")
 
 print(f"Hurmatli {ism.title()} ning yoshi {yosh} da, \n Manzili {manzil.title()} da joylashgan \n {maktab} maktabda o'qiydi. \n Uning qiziqishlari {qiziqish.title()} va Eng yaqin insonlari {jura.title()} dan iborat.")
+
+ism = list('anvar','karim')
+print(ism)
