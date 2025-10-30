@@ -26,11 +26,23 @@
 # print(f"{a} dan {b} gacha bolgan sonlar: {sorted(sonlar, reverse=True)}")
 # print(f"{a} dan {b} gacha {len(sonlar)} ta son bor")
 
-sonlar = []
-yigindi = []
-n = int(input("n ga butun son kiriting: "))
-for son in range(1,n+1):
-    korinish = f"1/{son}"
-    sonlar.append(korinish)
-    yigindi.append(1/son)
-print(f"formula {sonlar} \n yigindi: {sum(yigindi)}")
+# sonlar = []
+# yigindi = []
+# n = int(input("n ga butun son kiriting: "))
+# for son in range(1,n+1):
+#     korinish = f"1/{son}"
+#     sonlar.append(korinish)
+#     yigindi.append(1/son)
+# print(f"formula {sonlar} \n yigindi: {sum(yigindi)}")
+
+# son = list(range(2,3))
+# print(son)
+
+# n = int(input("n ga butun son kiriting: "))
+# royhat = []
+# for son in range(1, n+1):
+#      for daraja in range(son,son+1):
+#          korinish = f"{son}^{daraja}"
+#          royhat.append(korinish)
+#          yigindi = son**daraja
+# print(f"formula: {royhat} \n yigindi: {yigindi}")
