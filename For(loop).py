@@ -46,3 +46,30 @@
 #          royhat.append(korinish)
 #          yigindi = son**daraja
 # print(f"formula: {royhat} \n yigindi: {yigindi}")
+
+#1-masala
+# print("n > 0")
+# k = int(input("k nonini kiriting : "))
+# n = int(input("n nonini kiriting : "))
+
+# for son in range(1,n+1):
+#     print(f"{son}-sikl : {k}")
+
+#2-masala
+
+a = int(input("a nonini kiriting : "))
+b = int(input("b nonini kiriting : "))
+sonlar = list(range(a,b+1))
+for son in sonlar:
+    print(son)
+print(len(sonlar))
+
+
+
+
+
+
+
+
+
+
