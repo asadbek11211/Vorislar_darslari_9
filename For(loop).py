@@ -62,6 +62,7 @@ b = int(input("b nonini kiriting : "))
 sonlar = list(range(a,b+1))
 for son in sonlar:
     print(son)
+    print("Masala ishlash tugatildi")
 print(len(sonlar))
 
 
