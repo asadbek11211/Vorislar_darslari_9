@@ -64,6 +64,7 @@ for son in sonlar:
     print(son)
     print("Masala ishlash tugatildi")
 print(len(sonlar))
+print("Dastur tugadi")
 
 
 
