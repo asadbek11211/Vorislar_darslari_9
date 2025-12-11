@@ -114,9 +114,9 @@
 # print(f"Mashina nomi {car1["Nomi"]} bu mashinaning modeli M5.YIlli esa {car1["Yili"]} va bu mashinaning ot kuchi {car1["ot kuchi"]}ga ega.Hozirgi kunda bu mashinaning narxi {car1["Narx"]}gacha.Men ham bu mashinadan olganman uning rangi {car1["rangi"]}da.Men bu mashinani maksimal tezlikka olib chiqanman u {car1["max tezlik"]}gacha chiqardim hali menimcha bundan kop tezlikka chiqadi.Endi saloni haqida gapirsam uning saloni {car1["Ichki qism"]} rangda bu menga premium hashamatni beradi.Lekin mening mashinamni dushmani bor bu {car1["Dushmani"]} boladi. ")
 
 
-sonlar= [-78,45,12,-9,6,-48,3.14,2.4,2.1,5.1]
-print(sonlar)    
+# sonlar= [-78,45,12,-9,6,-48,3.14,2.4,2.1,5.1]
+# print(sonlar)    
 
-sorted(sonlar)
-print(sorted(sonlar))
-print(type(sonlar))
+# sorted(sonlar)
+# print(sorted(sonlar))
+# print(type(sonlar))
