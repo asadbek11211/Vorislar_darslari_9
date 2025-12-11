@@ -54,14 +54,41 @@
 # print(x)
 
 
-ism = input("Ismingizni kiriting: ")
-yosh = int(input("Yoshingizni kiriting: "))
-manzil = input("Manzilingizni kiriting: ")
-maktab = input("Maktabingizni kiriting: ")
-qiziqish = input("Qiziqishlaringizni kiriting: ")
-jura = input("Yaqin insonlaringizni kiriting : ")
+# ism = input("Ismingizni kiriting: ")
+# yosh = int(input("Yoshingizni kiriting: "))
+# manzil = input("Manzilingizni kiriting: ")
+# maktab = input("Maktabingizni kiriting: ")
+# qiziqish = input("Qiziqishlaringizni kiriting: ")
+# jura = input("Yaqin insonlaringizni kiriting : ")
 
-print(f"Hurmatli {ism.title()} ning yoshi {yosh} da, \n Manzili {manzil.title()} da joylashgan \n {maktab} maktabda o'qiydi. \n Uning qiziqishlari {qiziqish.title()} va Eng yaqin insonlari {jura.title()} dan iborat.")
+# print(f"Hurmatli {ism.title()} ning yoshi {yosh} da, \n Manzili {manzil.title()} da joylashgan \n {maktab} maktabda o'qiydi. \n Uning qiziqishlari {qiziqish.title()} va Eng yaqin insonlari {jura.title()} dan iborat.")
 
-ism = list('anvar','karim')
-print(ism)
+# ism = list('anvar','karim')
+# print(ism)
+
+# a = ["o`zbekiston","xorazm","Rossiya"]
+# print(a)
+
+# z = a.append("Brazilya")
+# print(a)
+
+# zz = a.insert(1,"Afrika")
+# print(a)
+
+# for i in a:
+#     print(i.upper())
+
+# sonlar=list(range(2,999,2))
+# print(sonlar)
+
+# for son in range(2,9999,2):
+#     print(sonlar)
+
+# print(len(sonlar))    
+
+car=['BMW','']
+
+
+
+
+
