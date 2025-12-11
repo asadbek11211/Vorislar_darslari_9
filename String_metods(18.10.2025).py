@@ -86,7 +86,17 @@
 
 # print(len(sonlar))    
 
-car=['BMW','']
+car=['BMW','Audi','Mers']
+car.append('Niva')
+car.append('Buggati')
+car.append('Ferrai')
+car.append('Matiz')
+print(car)
+car.sort()
+print(car)
+
+sorted(car)
+print(sorted(car))
 
 
 
