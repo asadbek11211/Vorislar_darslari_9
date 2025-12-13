@@ -7,14 +7,33 @@
 # print(" B sonining qiymati B =  ", a)
 
 
-oquvchilar = []
+# oquvchilar = []
 
-for oquvchi in range(4):
-    print(f"{oquvchi+1} - o'quvchini kiriting")
-    oquvchi = {
+# for oquvchi in range(4):
+#     print(f"{oquvchi+1} - o'quvchini kiriting")
+#     oquvchi = {
         
-        'ism':input('Ism kiriting :' ),
-        'yoshi': input('yoshini kiriting : ')
-    }
-    oquvchilar.append(oquvchi)
-print(oquvchilar)
+#         'ism':input('Ism kiriting :' ),
+#         'yoshi': input('yoshini kiriting : ')
+#     }
+#     oquvchilar.append(oquvchi)
+# print(oquvchilar)
+
+# Ichki lugatlar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
