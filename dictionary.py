@@ -86,4 +86,26 @@ talaba14 = {
 
 
 
+malumot_tiplari = {
+    'str': 'string',
+    'int': 2025,
+    'float': 2025.3,
+    'bool': True,
+    'list': ['malibu','cobalt','matiz'],
+    'tuple': ('pi','g','k','R'),
+    'dictionary':{
+        'kitoblar' : {
+            'badiy': 'sariq devni minib',
+            'hajviy': 'ikki karra ikki besh'
+        },
+        'badiy_kitob' : 'ikki eshik orasi'
+    }
+}
+
+
+
+
+
+
+
 
