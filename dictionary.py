@@ -41,11 +41,29 @@ talaba7 = {
     'maktab': '1-maktab',
     'qiziqish': 'IT darslari'
 }
+talaba8 = {
+    'ism': 'zuhriddin',
+    'familya': 'qadamboyev',
+    'maktab': '26-maktab',
+    'qiziqish': 'IT darslari, barcha sport'
+}
+talaba9 = {
+    'ism': 'muhammadali',
+    'familya': 'ibragimov',
+    'maktab': '1-maktab',
+    'qiziqish': 'IT'
+}
+talaba10 = {
+    'ism': 'baxtiyor',
+    'familya': 'ozodov',
+    'maktab': '1-maktab',
+    'qiziqish': 'IT, elektronika'
+}
 talaba = {
-    'ism': '',
-    'familya': '',
-    'maktab': '-maktab',
-    'qiziqish': ''
+    'ism': 'sharofat',
+    'familya': 'jumamurodova',
+    'maktab': '1-maktab',
+    'qiziqish': 'korey tili darslari'
 }
 
 
