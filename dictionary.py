@@ -59,13 +59,30 @@ talaba10 = {
     'maktab': '1-maktab',
     'qiziqish': 'IT, elektronika'
 }
-talaba = {
+talaba11 = {
     'ism': 'sharofat',
     'familya': 'jumamurodova',
     'maktab': '1-maktab',
     'qiziqish': 'korey tili darslari'
 }
-
+talaba12 = {
+    'ism': 'matluba',
+    'familya': 'olloyorova',
+    'maktab': '1-maktab',
+    'qiziqish': 'kitob oqish, rus tili darslari'
+}
+talaba13 = {
+    'ism': 'mashhura',
+    'familya': 'shomurotova',
+    'maktab': '1-maktab',
+    'qiziqish': 'IT darslari'
+}
+talaba14 = {
+    'ism': 'maftuna',
+    'familya': 'madaminova',
+    'maktab': '1-maktab',
+    'qiziqish': 'IT darslari, Ingliz tili, Fizika'
+}
 
 
 
