@@ -16,4 +16,5 @@ def kopaytma(son1,son2):
     Ikkita sonni ko'paytma ko'rinishida taqdim qiladigan function
     """
     print(f"{son1} * {son2} = {son1*son2}")
+    
 kopaytma(9,74)
