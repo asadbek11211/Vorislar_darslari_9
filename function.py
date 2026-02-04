@@ -21,9 +21,14 @@
 
 # Shart operatorlari if else
 
-son = -34.89
+# son = -34.89
 
-if son > 0:
-    print("siz kiritgan son musbat")
-else:
-    print("Siz kiritgan son manfiy")
+# if son > 0:
+#     print("siz kiritgan son musbat")
+# else:
+#     print("Siz kiritgan son manfiy")
+
+
+son = input(float("Ixtiyoriy son kiriting men uni sizga - yoki + ekanini aniqlab beraman"))
+
+
