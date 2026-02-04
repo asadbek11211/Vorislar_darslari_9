@@ -32,7 +32,7 @@
 son = float(input("Ixtiyoriy son kiriting men uni sizga - yoki + ekanini aniqlab beraman "))
 
 if son > 0:
-    print("siz kiritgan son musbat")
+print("siz kiritgan son musbat")
 else:
     print("Siz kiritgan son manfiy")
 
