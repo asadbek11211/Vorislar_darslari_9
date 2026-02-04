@@ -21,3 +21,9 @@
 
 # Shart operatorlari if else
 
+son = -34.89
+
+if son > 0:
+    print("siz kiritgan son musbat")
+else:
+    print("Siz kiritgan son manfiy")
