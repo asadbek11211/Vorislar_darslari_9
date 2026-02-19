@@ -29,4 +29,12 @@
 #     print("Siz kiritgan son manfiy")
 
 
+def darajaga_oshirish(a,b):
+    """a sonining b inchi darajasini hisoblash funksiyasi"""
+
+def salomber(ism):
+    """kiritilgan ismga qoshimcha matn yozib chiqaruvchi function"""
+
+def ishorani_aniqlash(son):
+    """Kiritilgan sonni musbat, manfiy yoki nolga teng ekanini aniqlovchi function"""
 
