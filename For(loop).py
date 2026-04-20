@@ -1,5 +1,4 @@
 
-
 # ismlar = ['Ali', 'Vali', 'Hasan', 'Husan', 'Olim']
 # for ism in ismlar:
 #     print(f"Salom {ism}, ishlaring yaxshimi?")
