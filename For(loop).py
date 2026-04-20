@@ -10,6 +10,7 @@
 # a = int(input("a ga butun son kiriting: "))
 # b = int(input("b ga butun son kiriting: "))
 # sonlar = []
+
 # print(sonlar)
 # for son in range(a, b+1):
 #     sonlar.append(son)
