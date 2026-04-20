@@ -2,6 +2,7 @@
 # for ism in ismlar:
 #     print(f"Salom {ism}, ishlaring yaxshimi?")
 
+
 # for son in list(range(1,11)):
 #     print(f"{son} ning kvadrati {son**2} ga teng")
 
