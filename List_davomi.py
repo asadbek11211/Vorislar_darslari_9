@@ -9,7 +9,6 @@
 # # """
 
 
-
 # # # davlatlar = ["Uzbekiston","Brazilya","Ispaniya","Vatikan","Qazaqistan","Turkiya"]
 # # # moshinalar = list(('BMW','audi','tico','damas','depal s07','depal sl03','onix'))
 # # # sonlar = list((2,1,7,3,-9))
